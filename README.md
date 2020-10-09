@@ -31,7 +31,7 @@
 | 3th Jun, 2020 | 7 | [논문 리뷰 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247v1.pdf) | 이재빈 | [Slide]()
 | 3th Jun, 2020 | 7 | [논문 리뷰 - Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) | 배유나 | [Slide]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe382278-2f92-4a65-a819-8d193a23985a/.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201009%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201009T064056Z&X-Amz-Expires=86400&X-Amz-Signature=df1a3126b32878dffa6277e53fb653c396527d08cec36ea28dfc422e8406db79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%25A6%25AC%25EB%25B7%25B0%25EA%25B8%25B0%25EB%25B0%2598%25EC%25B6%2594%25EC%25B2%259C.pdf%22) | 김수아 | [Slide]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) | 김태욱 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) | 김태욱 | [Slide]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf) | 이세윤 | [Slide]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/pdf/1905.01395v1.pdf) | 김주호 | [Slide]()
 
