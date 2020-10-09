@@ -26,7 +26,9 @@
 | 20th May, 2020 | 5 | [Lecture 10 – Latent Factor Methods II]() | 오진석 | [Slide]() | [Video]()
 | 27th May, 2020 | 6 | [Lecture 11 – Learning (to Rank and Beyond) I]() | 조상연 | [Slide]() | [Video]()
 | 27th May, 2020 | 6 | [Lecture 12 – Learning (to Rank and Beyond) II]() | 조상연 | [Slide]() | [Video]()
-| 3th Jun, 2020 | 7 | [Lecture 13 – 논문 리뷰]() | 오진석 | [Slide]() | [Video]()
+| 3th Jun, 2020 | 7 | [Lecture 13 – 논문 리뷰 - Wide & Deep Learning for Recommender Systems]() | 허 | [Slide]() | [Video]()
+| 3th Jun, 2020 | 7 | [Lecture 14 – 논문 리뷰]() | 정주원 | [Slide]() | [Video]()
+| 3th Jun, 2020 | 7 | [Lecture 14 – 논문 리뷰]() | 정주원 | [Slide]() | [Video]()
 | 3th Jun, 2020 | 7 | [Lecture 14 – 논문 리뷰]() | 정주원 | [Slide]() | [Video]()
 | 10th Jun, 2020 | 8 | [Lecture 15 – 논문 리뷰|() 김민정 | [Slide]() | [Video]()
 | 10th Jun, 2020 | 8 | [Lecture 18 – 논문리뷰]() | 정민준 | [Slide]() | [Video]()
@@ -35,7 +37,7 @@
 
 - 한 명당 약 **최소 1번의 강의**를 맡게 될 것 같습니다. (추후 발표자 논의 예정)
 
-- 과제는 CS224n 수업의 과제를 따라갑니다. 목표는 **Assignment 4**까지 완료하는 것입니다.
+- 과제는 CSCI 5123 수업의 과제를 따라갑니다.
   하나의 Assignment 안에 여러 문제가 있습니다. 질문에 대답하는 문제와 코딩으로 구현하는 문제가 함께 있습니다. 그리고 다음과 같은 규칙을 만들었습니다.
 
 - 1. 각 Assignment의 Deadline은 격주로 한다. (예: Assignment1은 2주차 세미나 전까지 마감)
@@ -57,10 +59,3 @@
     ✔️**강의에는 없지만 추가적으로 공유하고 싶은 내용**
     3. 준비한 질문은 세미나 전까지 Notion 질문 페이지에 올릴 것
     ⇒ 위 질문거리를 준비하지 않았을 시, 기존 과제 미제출 상황과 동일한 벌금 부과
-
-### 4. 저장소 사용 규칙
-
-- 팀 단위 저장소를 처음 사용해보는 분을 위하여 다음과 같이 작성했습니다. 참고부탁드려요
-  - 강의자는 자신이 할당된 주차, 강의에 맞게 자료를 업로드 해주셔야 합니다.
-  - 사전 충돌을 방지하기 위해서 **Pull requests**를 받도록 하겠습니다. 강의자분은 레포를 **fork**하여 로컬 레포에서 작업 후 **Pull requests**를 보내주시면 감사하겠습니다.(이 부분이 어렵다면 깃 강의자에게 문의주세요.)
-  - 강의자가 **Pull requests**에 담아야할 작업(메인 리드미에 Slide link 채우기, 강의자료 업로드 및 해당 주차 markdown 작성, 기타..)
