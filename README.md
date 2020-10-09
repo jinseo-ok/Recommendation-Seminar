@@ -5,7 +5,9 @@
 
 앞으로의 두 달 동안은 **함께 공부하는 입장**이 되어 세미나를 진행하게 됩니다.
 
-기본적인 커리큘럼은 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://canvas.umn.edu/courses/135116)** 강의로 진행합니다. 영어 강의입니다..ㅠ
+기본적인 커리큘럼은 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://www.coursera.org/specializations/recommender-systems)** 강의로 진행합니다.
+
+[커리큘럼](https://canvas.umn.edu/courses/135116)은 다음과 같습니다.
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 <br/>
