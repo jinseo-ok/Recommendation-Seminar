@@ -1,9 +1,8 @@
 # Tobigs. Recommendation System Seminar (2020) 12 & 13
+
 ### 1. 세미나 소개
 
-모두 10주 간 세션 듣느라 (과제 하시느라) 고생 많으셨습니다! 😬 
-
-앞으로의 두 달 동안은 **함께 공부하는 입장**이 되어 세미나를 진행하게 됩니다.
+투빅스 12 & 13기 **추천 시스템 세미나**입니다.
 
 기본적인 커리큘럼은 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://www.coursera.org/specializations/recommender-systems)** 강의로 진행합니다.
 
