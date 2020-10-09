@@ -38,7 +38,6 @@
 | 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/pdf/1905.01395v1.pdf) | 김주호 | [Slide](https://drive.google.com/file/d/1JaWNUuasVouRfFQGhXcNlXJHhVMcgMPM/view?usp=sharing)
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1905.01395v1.pdf) | 박진혁 | [Slide](https://drive.google.com/file/d/1qRyDs3_iTVf_3zT6dRitlGjUyw0hyitJ/view?usp=sharing)
 <br/>
-<br/>
 
 ### 3. 세미나 규칙 안내
 
