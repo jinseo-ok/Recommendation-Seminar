@@ -32,8 +32,7 @@
 | 3th Jun, 2020 | 7 | [논문 리뷰 - Variational autoencoder]() | 배유나 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art]() | 김수아 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction]() | 김태욱 | [Slide]() | [Paper]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for
-Personalization and Recommendation Systems]() | 이세윤 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems]() | 이세윤 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems]() | 김주호 | [Slide]() | [Paper]()
 
 ### 3. 세미나 규칙 안내
