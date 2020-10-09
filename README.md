@@ -14,11 +14,11 @@
 
 |       Date       | Week | Topic | Presenters | Slides | Videos |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|:------:
-| 15th Apr, 2020 | 1  | [Lecture 1 – Introducing Recommender Systems]() | 김주호 | [Slide]() | [Video]()
-| 15th Apr, 2020 | 1 | [Lecture 2 – Non-Personalized and Stereotype-Based Recommenders]() | 김주호 | [Slide]() | [Video]()
-| 22th Apr, 2020 | 2 | [Lecture 3 – Content-Based Filtering -- Part I]() | 허정민 | [Slide]() | [Video]()
-| 22th Apr, 2020 | 2 | [Lecture 4 – Content-Based Filtering -- Part II]() | 배유나 | [Slide]() | [Video]()
-| 6th May, 2020 | 3 | [Lecture 5 – Correlation-Based Collaborative Filtering I]() | 김수아 | [Slide]() | [Video]()
+| 15th Apr, 2020 | 1  | [Lecture 1 – Introducing Recommender Systems](https://www.coursera.org/lecture/recommender-systems-introduction/movielens-tour-HcINn) | 김주호 | [Slide]() | [Video]()
+| 15th Apr, 2020 | 1 | [Lecture 2 – Non-Personalized and Stereotype-Based Recommenders](https://www.coursera.org/lecture/recommender-systems-introduction/non-personalized-and-stereotype-based-recommenders-EnZWZ) | 김주호 | [Slide]() | [Video]()
+| 22th Apr, 2020 | 2 | [Lecture 3 – Content-Based Filtering -- Part I](https://www.coursera.org/lecture/recommender-systems-introduction/introduction-to-content-based-recommenders-git6K) | 허정민 | [Slide]() | [Video]()
+| 22th Apr, 2020 | 2 | [Lecture 4 – Content-Based Filtering -- Part II](https://www.coursera.org/lecture/recommender-systems-introduction/assignment-2-introduction-content-based-filtering-in-a-spreadsheet-sEuDb) | 배유나 | [Slide]() | [Video]()
+| 6th May, 2020 | 3 | [Lecture 5 – Correlation-Based Collaborative Filtering I](https://www.coursera.org/lecture/collaborative-filtering/user-user-collaborative-filtering-vxEBZ) | 김수아 | [Slide]() | [Video]()
 | 6th May, 2020 | 3 | [Lecture 6 – Correlation-Based Collaborative Filtering II & More User Experience]() | 김태욱 | [Slide]() | [Video]()
 | 13th May, 2020 | 4 | [Lecture 7 – Metrics and Evaluation I]() | 이재빈 | [Slide]() | [Video]()
 | 13th May, 2020 | 4 | [Lecture 8 – Metrics and Evaluation II & Experimental Methods]() | 이세윤 | [Slide]() | [Video]()
