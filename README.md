@@ -26,15 +26,15 @@
 | 20th May, 2020 | 5 | [Lecture 10 – Latent Factor Methods II]() | 오진석 | [Slide]() | [Video]()
 | 27th May, 2020 | 6 | [Lecture 11 – Learning (to Rank and Beyond) I]() | 조상연 | [Slide]() | [Video]()
 | 27th May, 2020 | 6 | [Lecture 12 – Learning (to Rank and Beyond) II]() | 조상연 | [Slide]() | [Video]()
-| 3th Jun, 2020 | 7 | [논문 리뷰 - Wide & Deep Learning for Recommender Systems]() | 허정민 | [Slide]() | [Video]()
-| 3th Jun, 2020 | 7 | [논문 리뷰] - AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks() | 오진석 | [Slide]() | [Video]()
-| 3th Jun, 2020 | 7 | [논문 리뷰] - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction() | 이재빈 | [Slide]() | [Video]()
-| 3th Jun, 2020 | 7 | [논문 리뷰] - Variational autoencoder() | 배유나 | [Slide]() | [Video]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art|() 김수아 | [Slide]() | [Video]()
-| 10th Jun, 2020 | 8 | [논문리뷰 - Product-based Neural Networks for User Response Prediction]() | 김태욱 | [Slide]() | [Video]()
+| 3th Jun, 2020 | 7 | [논문 리뷰 - Wide & Deep Learning for Recommender Systems]() | 허정민 | [Slide]() | [Paper]()
+| 3th Jun, 2020 | 7 | [논문 리뷰 - AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks]()| 오진석 | [Slide]() | [Paper]()
+| 3th Jun, 2020 | 7 | [논문 리뷰 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction]() | 이재빈 | [Slide]() | [Paper]()
+| 3th Jun, 2020 | 7 | [논문 리뷰 - Variational autoencoder]() | 배유나 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art]() | 김수아 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction]() | 김태욱 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for
-Personalization and Recommendation Systems|() 이세윤 | [Slide]() | [Video]()
-| 10th Jun, 2020 | 8 | [논문리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems]() | 김주호 | [Slide]() | [Video]()
+Personalization and Recommendation Systems]() | 이세윤 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems]() | 김주호 | [Slide]() | [Paper]()
 
 ### 3. 세미나 규칙 안내
 
