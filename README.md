@@ -11,6 +11,7 @@
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 <br/>
+<br/>
 
 ### 2. 세미나 커리큘럼
 
@@ -36,6 +37,8 @@
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf) | 이세윤 | [Slide](https://drive.google.com/file/d/1FuSH57qKW2NK8aPhRR41ZV6aIrRFNbO4/view?usp=sharing)
 | 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/pdf/1905.01395v1.pdf) | 김주호 | [Slide](https://drive.google.com/file/d/1JaWNUuasVouRfFQGhXcNlXJHhVMcgMPM/view?usp=sharing)
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1905.01395v1.pdf) | 박진혁 | [Slide](https://drive.google.com/file/d/1qRyDs3_iTVf_3zT6dRitlGjUyw0hyitJ/view?usp=sharing)
+<br/>
+<br/>
 
 ### 3. 세미나 규칙 안내
 
