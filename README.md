@@ -12,7 +12,7 @@
 
 ### 2. 세미나 커리큘럼
 
-|       Date       | Week | Topic | Presenters | Slides | Videos |
+|       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|:------:
 | 15th Apr, 2020 | 1  | [Lecture 1 – Introducing Recommender Systems](https://www.coursera.org/lecture/recommender-systems-introduction/movielens-tour-HcINn) | 김주호 | [Slide]() | [Video]()
 | 15th Apr, 2020 | 1 | [Lecture 2 – Non-Personalized and Stereotype-Based Recommenders](https://www.coursera.org/lecture/recommender-systems-introduction/non-personalized-and-stereotype-based-recommenders-EnZWZ) | 김주호 | [Slide]() | [Video]()
@@ -33,7 +33,7 @@
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art]() | 김수아 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction]() | 김태욱 | [Slide]() | [Paper]()
 | 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems]() | 이세윤 | [Slide]() | [Paper]()
-| 10th Jun, 2020 | 8 | [논문리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems]() | 김주호 | [Slide]() | [Paper]()
+| 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems]() | 김주호 | [Slide]() | [Paper]()
 
 ### 3. 세미나 규칙 안내
 
