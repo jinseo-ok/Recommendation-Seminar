@@ -5,7 +5,7 @@
 
 앞으로의 두 달 동안은 **함께 공부하는 입장**이 되어 세미나를 진행하게 됩니다.
 
-기본적인 커리큘럼은 미네소타 대학의 **CSCI 5123 (001) Recommender Systems** 강의로 진행합니다. 영어 강의입니다..ㅠ
+기본적인 커리큘럼은 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://canvas.umn.edu/courses/135116)** 강의로 진행합니다. 영어 강의입니다..ㅠ
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 <br/>
@@ -25,20 +25,21 @@
 | 20th May, 2020 | 5 | [Lecture 9 – Latent Factor Methods I](https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems#syllabus) | 박진혁 | [Slide](https://drive.google.com/file/d/1ppc4ZVgUrElTZpv4B38O-adV8_Yp4K6e/view?usp=sharing)
 | 20th May, 2020 | 5 | [Lecture 10 – Latent Factor Methods II](https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems#syllabus) | 오진석 | [Slide](https://drive.google.com/file/d/1EvVVxKhq5jONdrkO1P_shdMsKswElvlz/view?usp=sharing)
 | 27th May, 2020 | 6 | [Lecture 11 – Learning (to Rank and Beyond) I & II](https://youtu.be/BLlvk_ODqFQ) | 조상연 | [Slide](https://drive.google.com/file/d/1LEtSU2dYeAA4CJ4PGIaJYZsTunlUjw2r/view?usp=sharing)
-| 3th Jun, 2020 | 7 | [논문 리뷰 - Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792v1.pdf) | 허정민 | [Slide]()
-| 3th Jun, 2020 | 7 | [논문 리뷰 - AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921v2.pdf)| 오진석 | [Slide]()
-| 3th Jun, 2020 | 7 | [논문 리뷰 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247v1.pdf) | 이재빈 | [Slide]()
-| 3th Jun, 2020 | 7 | [논문 리뷰 - Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) | 배유나 | [Slide]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe382278-2f92-4a65-a819-8d193a23985a/.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201009%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201009T064056Z&X-Amz-Expires=86400&X-Amz-Signature=df1a3126b32878dffa6277e53fb653c396527d08cec36ea28dfc422e8406db79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%25A6%25AC%25EB%25B7%25B0%25EA%25B8%25B0%25EB%25B0%2598%25EC%25B6%2594%25EC%25B2%259C.pdf%22) | 김수아 | [Slide]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) | 김태욱 | [Slide]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf) | 이세윤 | [Slide]()
-| 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/pdf/1905.01395v1.pdf) | 김주호 | [Slide]()
+| 3th Jun, 2020 | 7 | [논문 리뷰 - Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792v1.pdf) | 허정민 | [Slide](https://drive.google.com/file/d/1G_G0q60BTjnLuenhxysPlxx7oDQYNEhL/view?usp=sharing)
+| 3th Jun, 2020 | 7 | [논문 리뷰 - AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921v2.pdf)| 오진석 | [Slide](https://drive.google.com/file/d/1IogDlqNnkVduOtI0LF_ln1FLX951OgBF/view?usp=sharing)
+| 3th Jun, 2020 | 7 | [논문 리뷰 - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247v1.pdf) | 이재빈 | [Slide](https://drive.google.com/file/d/1KFLhkvTsbVzeWQQQ3VBl7L4Ty856esYA/view?usp=sharing)
+| 3th Jun, 2020 | 7 | [논문 리뷰 - Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf) | 배유나 | [Slide](https://drive.google.com/file/d/1juPbmytkuopwJCbkGThfMPhUh7e_oLEE/view?usp=sharing)
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Recommender systems based on user reviews: the state of the art](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe382278-2f92-4a65-a819-8d193a23985a/.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201009%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201009T064056Z&X-Amz-Expires=86400&X-Amz-Signature=df1a3126b32878dffa6277e53fb653c396527d08cec36ea28dfc422e8406db79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%25A6%25AC%25EB%25B7%25B0%25EA%25B8%25B0%25EB%25B0%2598%25EC%25B6%2594%25EC%25B2%259C.pdf%22) | 김수아 | [Slide](https://drive.google.com/file/d/1L5ha-fAr93MO3nJcswA-0HGImF6wlYCO/view?usp=sharing)
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) | 김태욱 | [Slide](https://drive.google.com/file/d/1zevHZFPzBZ_85HJSfNr4yhnItR2MLYrY/view?usp=sharing)
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf) | 이세윤 | [Slide](https://drive.google.com/file/d/1FuSH57qKW2NK8aPhRR41ZV6aIrRFNbO4/view?usp=sharing)
+| 10th Jun, 2020 | 8 | [논문 리뷰 - On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/pdf/1905.01395v1.pdf) | 김주호 | [Slide](https://drive.google.com/file/d/1JaWNUuasVouRfFQGhXcNlXJHhVMcgMPM/view?usp=sharing)
+| 10th Jun, 2020 | 8 | [논문 리뷰 - Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1905.01395v1.pdf) | 박진혁 | [Slide](https://drive.google.com/file/d/1qRyDs3_iTVf_3zT6dRitlGjUyw0hyitJ/view?usp=sharing)
 
 ### 3. 세미나 규칙 안내
 
 - 한 명당 약 **최소 1번의 강의**를 맡게 될 것 같습니다. (추후 발표자 논의 예정)
 
-- 과제는 CSCI 5123 수업의 과제를 따라갑니다.
+- 과제는 [CSCI 5123 수업의 과제](https://canvas.umn.edu/courses/135116/assignments)를 따라갑니다.
   하나의 Assignment 안에 여러 문제가 있습니다. 질문에 대답하는 문제와 코딩으로 구현하는 문제가 함께 있습니다. 그리고 다음과 같은 규칙을 만들었습니다.
 
 - 1. 각 Assignment의 Deadline은 격주로 한다. (예: Assignment1은 2주차 세미나 전까지 마감)
