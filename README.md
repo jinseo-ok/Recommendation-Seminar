@@ -12,8 +12,8 @@
 
 ### 2. 세미나 커리큘럼
 
-|       Date       | Week | Topic | Presenters | Slides
-|:----------------:|:------:|:----------------------------------------:|:----------:|:------:|:------:
+|       Date       | Week | Topic | Presenters | Slides |
+|:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
 | 15th Apr, 2020 | 1  | [Lecture 1 – Introducing Recommender Systems](https://www.coursera.org/lecture/recommender-systems-introduction/movielens-tour-HcINn) | 김주호 | [Slide]() |
 | 15th Apr, 2020 | 1 | [Lecture 2 – Non-Personalized and Stereotype-Based Recommenders](https://www.coursera.org/lecture/recommender-systems-introduction/non-personalized-and-stereotype-based-recommenders-EnZWZ) | 김주호 | [Slide]()
 | 22th Apr, 2020 | 2 | [Lecture 3 – Content-Based Filtering -- Part I](https://www.coursera.org/lecture/recommender-systems-introduction/introduction-to-content-based-recommenders-git6K) | 허정민 | [Slide]()
