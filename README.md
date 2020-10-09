@@ -4,7 +4,7 @@
 
 투빅스 12 & 13기 **추천 시스템 세미나**입니다.
 
-기본적인 커리큘럼은 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://www.coursera.org/specializations/recommender-systems)** 강의로 진행합니다.
+추천 시스템 세미나는 미네소타 대학의 **[CSCI 5123 (001) Recommender Systems](https://www.coursera.org/specializations/recommender-systems)** 강의로 진행합니다.
 
 [커리큘럼](https://canvas.umn.edu/courses/135116)은 다음과 같습니다.
 
