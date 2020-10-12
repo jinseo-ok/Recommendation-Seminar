@@ -45,13 +45,14 @@
 - 과제는 [CSCI 5123 수업의 과제](https://canvas.umn.edu/courses/135116/assignments)를 따라갑니다.
   하나의 Assignment 안에, 질문에 대답하는 문제와 코딩으로 구현하는 문제가 함께 있습니다. 
   
-- 과제 추가 : 논문리뷰 
+- 과제 세부사항 : 코드리뷰 및 논문리뷰 
   1. week1 : Movielens Data Analysis 코드리뷰 
   2. week2 : Content-Based Filtering - [Algorithmic Marketing](https://algorithmicweb.files.wordpress.com/2018/07/algorithmic-marketing-ai-for-marketing-operations-r1-7g.pdf) 책 리뷰 
   3. week3 : 논문리뷰 
      - [Training Deep AutoEncoders for Collaborative Filtering](https://arxiv.org/pdf/1708.01715.pdf) 
      - [Collaborative Similarity Embedding for Recommender Systems](https://arxiv.org/pdf/1902.06188.pdf)
   4. week4 : [추천시스템 기법 연구동향 분석](http://webcache.googleusercontent.com/search?q=cache:mBaNkDmrwukJ:www.ndsl.kr/soc_img/society/kiie/SGHHB1/2015/v41n2/SGHHB1_2015_v41n2_185.pdf+&cd=2&hl=ko&ct=clnk&gl=kr) 논문리뷰
+  5. week5 : [MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) 논문리뷰 
    
 - 본인의 Assignment는 노션에 업로드 하여 수행 결과를 모두가 볼 수 있도록 합니다. 
 
